@@ -1,0 +1,10 @@
+C:\Users\Shi\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp2.2\GuessingGame.deps.json
+C:\Users\Shi\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp2.2\GuessingGame.runtimeconfig.json
+C:\Users\Shi\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp2.2\GuessingGame.runtimeconfig.dev.json
+C:\Users\Shi\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp2.2\GuessingGame.dll
+C:\Users\Shi\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp2.2\GuessingGame.pdb
+C:\Users\Shi\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp2.2\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Shi\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp2.2\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\Shi\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp2.2\GuessingGame.AssemblyInfo.cs
+C:\Users\Shi\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp2.2\GuessingGame.dll
+C:\Users\Shi\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp2.2\GuessingGame.pdb
